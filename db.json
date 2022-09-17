@@ -1,0 +1,104 @@
+{
+  "dresses": [
+    {
+      "id": 1,
+      "name": "Pink and Gray Floral Dress",
+      "style": "Mila",
+      "price": "$52.99",
+      "size": "(2T-6)",
+      "color": "pink/gray",
+      "image": "/images/mila.png",
+      "description": "The Pink and Gray Floral dress is our Mila dress.  It is perfect for special occasions, holidays, and more."
+    },
+    {
+      "id": 2,
+      "name": "Pink and Green Floral Dress",
+      "style": "Lillian",
+      "price": "$52.99",
+      "size": "(2T-6)",
+      "color": "pink/green",
+      "image": "/images/lillian.png",
+      "description": "The Pink and Green Floral dress is our Lillian dress.  It is perfect for special occasions, holidays, and more."
+    },
+    {
+      "id": 3,
+      "name": "Pink and White Leaf Dress",
+      "style": "Adriana",
+      "price": "$54.99",
+      "size": "(2T-6)",
+      "color": "pink/white",
+      "image": "/images/adriana.png",
+      "description": "The Pink and White Floral dress is our Adriana dress.  It is perfect for special occasions, holidays, and more."
+    },
+    {
+      "id": 4,
+      "name": "Pink Floral Dress",
+      "style": "Amina",
+      "price": "$52.99",
+      "size": "(2T-6)",
+      "color": "pink",
+      "image": "/images/amina.png",
+      "description": "The Pink Floral dress is our Amina dress.  It is perfect for special occasions, holidays, and more."
+    },
+    {
+      "id": 5,
+      "name": "White and Black Floral Dress",
+      "style": "Petra",
+      "price": "$54.99",
+      "size": "(2T-6)",
+      "color": "white/black",
+      "image": "/images/petra.png",
+      "description": "The White and Black Floral dress is our Petra dress.  It is perfect for special occasions, holidays, and more."
+    },
+    {
+      "id": 6,
+      "name": "White and Green Floral Dress",
+      "style": "Una",
+      "price": "$54.99",
+      "size": "(2T-6)",
+      "color": "white/green",
+      "image": "/images/una.png",
+      "description": "The White and Green Floral dress is our Una dress.  It is perfect for special occasions, holidays, and more."
+    },
+    {
+      "id": 7,
+      "name": "White Lace Magenta Dress",
+      "style": "Eva",
+      "price": "$54.99",
+      "size": "(2T-6)",
+      "color": "white/magenta",
+      "image": "/images/eva.png",
+      "description": "The White Lace Magenta dress is our Eva dress.  It is perfect for special occasions, holidays, and more."
+    },
+    {
+      "id": 8,
+      "name": "Pink and Magenta Retro Dress",
+      "style": "Sophia",
+      "price": "$47.99",
+      "size": "(2T-6)",
+      "color": "pink/magenta",
+      "image": "/images/sofia.png",
+      "description": "The Pink and Magenta Retro dress is our Sophia dress.  It is perfect for special occasions, holidays, and more."
+    },
+    {
+      "id": 9,
+      "name": "Pink Retro Dress",
+      "style": "Sanya",
+      "price": "$47.99",
+      "size": "(2T-6)",
+      "color": "pink",
+      "image": "/images/sanya.png",
+      "description": "The Pink Retro dress is our Sanya dress.  It is perfect for special occasions, holidays, and more."
+    },
+    {
+      "name": "Purple and White Floral Dress",
+      "style": "Aurora",
+      "image": "https://bananarepublic.gap.com/webcontent/0029/279/199/cn29279199.jpg",
+      "price": "$48.99",
+      "size": "(2T-6)",
+      "color": "purple/white",
+      "description": "The purple and white dress is our Aurora dress.  It is perfect for special occasions, holidays, and more.",
+      "id": 11
+    }
+  ]
+}
