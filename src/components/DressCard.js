@@ -3,9 +3,12 @@ import styled from 'styled-components'
 import { useHistory } from "react-router-dom"
 
 function DressCard({ id, name, style, image, price }) {
-  const Card = styled.li`
+  const Card = styled.div`
     img{
       width: 300px;
+    }
+    div{
+      margin-bottom: 20px;
     }
   `
   let history = useHistory()

@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 import styled from 'styled-components'
 
 function NavBar() {
-  const Nav = styled.li`
+  const Nav = styled.h3`
     font-family: papyrus;
     font-size: 18px;
     padding-left: 15px;
