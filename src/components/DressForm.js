@@ -6,12 +6,12 @@ function DressForm({ setDresslist }) {
   // make form with JSX, 
   // control the form with State
   // handle SubmitEvent, fetch
-  // const Form = styled.form`
-  //   font-family: papyrus;
-    /* font-weight: bold; */
-    /* padding-left: 15px;
-  //   padding-top:30px; */
-  // `
+
+  // const Cont = styled.container`
+  //  font-family: papyrus;
+  //   font-weight: bold;
+  //   padding-left: 15px;
+  //   `
 
   const initialState = {
     name: "",
@@ -45,7 +45,7 @@ function DressForm({ setDresslist }) {
       .then(r=> r.json())
       .then(data => setDresslist((dresslist) => [...dresslist, data]))
     
-      // setFormData(initialState)
+      setFormData(initialState)
   }
   
   return (

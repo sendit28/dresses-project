@@ -11,6 +11,7 @@ function DressList({ dresslist }) {
     border: brown solid;
     padding: 50px;
     font-family: papyrus;
+    margin: 25px 25px;
   `
   const dresseslist = dresslist.map((dress) =>
     <DressCard id={dress.id} name={dress.name} style={dress.style} image={dress.image} price={dress.price} /> )

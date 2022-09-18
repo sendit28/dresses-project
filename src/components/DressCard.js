@@ -10,6 +10,9 @@ function DressCard({ id, name, style, image, price }) {
     div{
       margin-bottom: 20px;
     }
+    p{
+      margin-bottom: 20px;
+    } 
   `
   let history = useHistory()
    
