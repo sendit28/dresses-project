@@ -99,16 +99,6 @@
       "color": "purple/white",
       "description": "The purple and white dress is our Aurora dress.  It is perfect for special occasions, holidays, and more.",
       "id": 11
-    },
-    {
-      "name": "Purple and White Floral Dress",
-      "style": "Aurora",
-      "image": "https://bananarepublic.gap.com/webcontent/0029/279/199/cn29279199.jpg",
-      "price": "$48.99",
-      "size": "(2T-6)",
-      "color": "purple/white",
-      "description": "The purple and white dress is our Aurora dress.  It is perfect for special occasions, holidays, and more.",
-      "id": 12
     }
   ]
 }

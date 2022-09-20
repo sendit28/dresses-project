@@ -1,6 +1,7 @@
-# dresses-project
+# Mila's Children Boutique
+dresses-project
 
-dresses-project is a single page application that provides e-commerce for handmade children dresses.
+A single page application that provides e-commerce for handmade children's dresses.
 
 ### Installation
 
@@ -8,9 +9,9 @@ $ git clone git@github.com:sendit28/dresses-project.git
 
 ### Usage
 
-The vision for this project was creating a space for handmade children's dresses. There are three links: Home, Dresses, and New Dress.  Dresses will include the dresses with a click preview.  New Dress is the dress form.
+The vision for this project was creating a site for handmade children's dresses. There are three links: Home, Dress Collection, and New Dress.  Dress Collection will include more detailed information with a click preview.  New Dress is the add new dress form.
 
-In the future, there will be a search input field, sign-in, and shopping cart available.
+The project is still in development.  In the future, there will be a search input field, sign-in for handling user authentication, and basic cart management system.
 
 ### Getting Started with Create React App
 
@@ -31,6 +32,7 @@ You may also see any lint errors in the console.
 #### `npm run server`
 
 ### Resources
+image:
 "https://bananarepublic.gap.com/webcontent/0029/279/199/cn29279199.jpg"
 
 ### Contributing
