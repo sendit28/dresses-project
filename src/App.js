@@ -20,7 +20,6 @@ function App() {
     background-color: beige;
     height: 100vh;
   `
-  
   const [dresslist, setDresslist] = useState([])
 
   useEffect (() => {
