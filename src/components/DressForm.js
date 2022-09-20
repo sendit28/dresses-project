@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-// import styled from 'styled-components'
+import styled from 'styled-components'
 
 
 function DressForm({ setDresslist }) {
@@ -7,11 +7,25 @@ function DressForm({ setDresslist }) {
   // control the form with State
   // handle SubmitEvent, fetch
 
-  // const Cont = styled.container`
-  //  font-family: papyrus;
-  //   font-weight: bold;
-  //   padding-left: 15px;
-  //   `
+  const Form = styled.form`
+    font-family: papyrus;
+    font-weight: bold;
+    padding-left: 15px;
+    margin-left: 300px;
+    margin-top: 20px;
+    text-align: left;
+    img{
+      width: 350px;
+      margin-left: auto;
+      margin-right: 400px;
+      margin-bottom: 50px;
+      float: right; 
+    }
+    input{
+      border-radius: 5px;
+      margin-bottom: 15px;
+    }
+    `
 
   const initialState = {
     name: "",
@@ -49,7 +63,8 @@ function DressForm({ setDresslist }) {
   }
   
   return (
-    <form onSubmit={handleSubmit}>
+    <Form onSubmit={handleSubmit}>
+      <img src= "https://bananarepublic.gap.com/webcontent/0029/279/199/cn29279199.jpg" />
     <div>
       <label htmlFor= "name">Name: </label>
       <input name="name" value={formData.name} onChange={handleChange} />
@@ -79,7 +94,7 @@ function DressForm({ setDresslist }) {
       <input name="description" value={formData.description} onChange={handleChange} />
     </div>
     <button>Submit</button>
-  </form>
+  </Form>
   )
 }
 

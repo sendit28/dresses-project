@@ -17,7 +17,8 @@ import Home from './components/Home';
 function App() {
   const Container = styled.div`
     font-family: papyrus;
-    background-image: public/images/unahome.JPG
+    background-color: beige;
+    height: 100vh;
   `
   
   const [dresslist, setDresslist] = useState([])

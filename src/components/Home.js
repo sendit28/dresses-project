@@ -24,7 +24,7 @@ function Home({ name }) {
   `
   return (
     <Home>
-        <p>Mila's Children Boutique specializes in handmade girl's dresses sizes 2T to 6.  Each are unique and made with all the love, care, and tenderness that come from home.  The idea started with Noni's (grandmother) second granddaughter, Una.  She loved dresses and well...Noni is a professional seamstress.  Lets make our own dresses using fabrics of our choice.  Let's use organic.  Let's create heirlooms that can be passed from generation to generation!  The styles are perfect for any occasion, holiday, or even everyday with sweater and boots.  Find what speaks to your little angels.</p>
+        <p>Mila's Children Boutique specializes in handmade girl's dresses sizes 2T to 6.  Each are unique and made with all the love, care, and tenderness that come from home.  The idea started with Noni's (grandmother) second granddaughter, Una.  She loved dresses and well...Noni is a professional seamstress.  Let's make our own dresses using fabrics of our choice.  Let's use organic.  Let's create heirlooms that can be passed from generation to generation!  The styles are perfect for any occasion, holiday, or even everyday with sweater and boots.  Find what speaks to your little angels.</p>
         <img src= "https://bananarepublic.gap.com/webcontent/0029/279/199/cn29279199.jpg" name={name} />
     </Home>
   )
